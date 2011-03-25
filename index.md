@@ -1,22 +1,21 @@
 ---
-title: Marcin Nowicki aka Pr0d1r2 - Ruby on Rails BDD Agile developer and Team Leader using GTD and minimalistic approach
+title: Bartosz Zdzienicki sh0tra8  
 layout: default
-photo_src: http://gravatar.com/avatar/6079eb9d95034da7c27d3ced3cf6591f.png?r=PG
-photo_dsc: Marcin Nowicki aka Pr0d1r2
+photo_src: http://pl.gravatar.com/userimage/22096346/16acfa824dccbd645a2c5f6db7ddae84.jpg?r=PG
+photo_dsc: Bartosz Zdzienicki sh0tra8
 ---
 
-# Hello :)
+# Hello everybody!
 
-## My name is Marcin Nowicki (aka Pr0d1r2).
+## My name is Bartosz (Bartek) Zdzienicki.
 
-I am Ruby on Rails developer and Team Leader using GTD and minimalistic approach.
+I live in Częstochowa (Poland).
 
-I use BDD and many other Agile methodologies as my everyday routine for development.
+I learn Ruby on Rails.
+
+Salute!
 
 <hr>
 
-[Blog](http://pr0d1r2.tumblr.com),
-[GitHub](http://github.com/Pr0d1r2),
-[Twitter](http://twitter.com/Pr0d1r2),
-[E-Mail](mailto:pr0d1r2@gmail.com),
-[involved](/involved.html)
+[GitHub](http://github.com/sh0tra8),
+[E-Mail](mailto:sh0tr8@gmail.com)
