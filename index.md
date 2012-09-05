@@ -18,4 +18,6 @@ Salute!
 <hr>
 
 [GitHub](http://github.com/sh0tra8),
-[E-Mail](mailto:sh0tr8@gmail.com)
+[E-Mail](mailto:sh0tr8@gmail.com),
+[Facebook](http://facebook.com/k4b3ru),
+[Blog](http://k4b3ru.wordpress.com)
