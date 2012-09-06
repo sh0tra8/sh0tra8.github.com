@@ -1,17 +1,17 @@
 ---
-title: Bartosz Zdzienicki sh0tra8  
+title: Bartosz Zdzienicki || sh0tra8  
 layout: default
-photo_src: http://pl.gravatar.com/userimage/22096346/16acfa824dccbd645a2c5f6db7ddae84.jpg?r=PG
-photo_dsc: Bartosz Zdzienicki sh0tra8
+photo_src: http://pl.gravatar.com/userimage/22096346/6a9c3358f2ca0084d552094d37d873e8.png?r=PG
+photo_dsc: Bartosz Zdzienicki, sh0tra8
 ---
 
-# Hello everybody!
+# Bartosz (Bartek) Zdzienicki
 
-## My name is Bartosz (Bartek) Zdzienicki.
+## aka sh0tra8 or k4b3ru
 
 I live in Częstochowa (Poland).
 
-I learn Ruby on Rails.
+I learn Ruby & Ruby on Rails.
 
 Salute!
 
