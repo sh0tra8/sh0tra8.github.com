@@ -11,7 +11,7 @@ photo_dsc: Bartosz Zdzienicki, sh0tra8
 
 I live in Częstochowa (Poland).
 
-I learn Ruby & Ruby on Rails.
+I learn Ruby & Ruby on Rails and put into practice GTD method.
 
 <hr>
 
