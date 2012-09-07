@@ -28,3 +28,9 @@ I learn Ruby & Ruby on Rails.
 [Marcin Nowicki](http://marcinnowicki.com),
 [Marcin Michałowski](http://github.com/h13ronim),
 [Adrian Chęciński](http://hash4di.github.com)
+
+<br/>
+<br/>
+
+## Tools:
+Dell Inspiron 15R ( N5010 ) with Linux OS Ubuntu 12.04 (private), Mac mini with Mac OS X 10.6.8 (only in work)
