@@ -33,4 +33,4 @@ I learn Ruby & Ruby on Rails and put into practice GTD method.
 <br/>
 
 ## Tools:
-Dell Inspiron 15R ( N5010 ) with Linux OS Ubuntu 12.04 (private)
+Dell Inspiron 15R ( N5010 ) with Linux OS Ubuntu 12.04
