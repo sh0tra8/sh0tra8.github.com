@@ -12,8 +12,8 @@ photo_dsc: Bartosz Zdzienicki, sh0tra8
 I live in Częstochowa (Poland).
 
 I learn Ruby & Ruby on Rails.
-</br>
-</br>
+<br/>
+<br/>
 
 ## Co-workers & mentors:
 xxx,
