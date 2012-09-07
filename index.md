@@ -19,7 +19,7 @@ I learn Ruby & Ruby on Rails.
 [E-Mail](mailto:sh0tr8@gmail.com),
 [Facebook](http://facebook.com/k4b3ru),
 [Blog](http://k4b3ru.wordpress.com),
-[Twitter](http://twitter/k4b3ru)
+[Twitter](http://twitter.com/k4b3ru)
 
 <br/>
 <br/>
