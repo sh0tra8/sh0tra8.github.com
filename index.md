@@ -13,7 +13,7 @@ I live in Częstochowa (Poland).
 
 I learn Ruby & Ruby on Rails.
 
-Salute!
+## Co-workers & mentors:
 
 <hr>
 
