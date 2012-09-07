@@ -12,13 +12,6 @@ photo_dsc: Bartosz Zdzienicki, sh0tra8
 I live in Częstochowa (Poland).
 
 I learn Ruby & Ruby on Rails.
-<br/>
-<br/>
-
-## Co-workers & mentors:
-[Marcin Nowicki](http://marcinnowicki.com),
-[Marcin Michałowski](http://github.com/h13ronim),
-[Adrian Chęciński](http://hash4di.github.com)
 
 <hr>
 
@@ -26,3 +19,11 @@ I learn Ruby & Ruby on Rails.
 [E-Mail](mailto:sh0tr8@gmail.com),
 [Facebook](http://facebook.com/k4b3ru),
 [Blog](http://k4b3ru.wordpress.com)
+
+<br/>
+<br/>
+
+## Co-workers & mentors:
+[Marcin Nowicki](http://marcinnowicki.com),
+[Marcin Michałowski](http://github.com/h13ronim),
+[Adrian Chęciński](http://hash4di.github.com)
