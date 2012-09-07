@@ -16,9 +16,9 @@ I learn Ruby & Ruby on Rails.
 <br/>
 
 ## Co-workers & mentors:
-xxx,
-yyy,
-zzz
+[Marcin Nowicki](http://marcinnowicki.com),
+[Marcin Michałowski](http://github.com/h13ronim),
+[Adrian Chęciński](http://hash4di.github.com)
 
 <hr>
 
